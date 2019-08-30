@@ -7,14 +7,7 @@ build/*
 */target/*
 .gradle/*
 out/*
-dependency.txt
-.tablesawcache
 .idea
 log/*
-kairosdb.properties
-lib/ivy/default/*
-lib/ivy/test/*
 .DS_Store
-myivysettings.xml
-tablesaw.properties
 dependency-reduced-pom.xml
